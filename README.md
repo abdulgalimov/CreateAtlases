@@ -20,10 +20,12 @@ config.json:
       },
       "fonts": [
         {
+          "dense": true,
           "path":"fonts/Tahoma14",
           "name":"Tahoma14"
         },
         {
+          "dense": true,
           "path":"fonts/ScoreNums",
           "name":"ScoreNums"
         }
